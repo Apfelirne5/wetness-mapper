@@ -1,13 +1,12 @@
 # Wetness Mapper
 
-A Python-based tool designed to calculate and visualize surface wetness indices from geospatial datasets.  
-Utilizing satellite imagery and geospatial data, this tool aids in environmental monitoring, hydrological studies, and land management by providing insights into surface moisture distribution.
+A Python-based tool designed to calculate and visualize surface wetness.
 
 ---
 
 ## Features
 
-- **Wetness Index Calculation**: Processes data geospatial data to compute, surface moisture levels.
+- **Wetness Index Calculation**: Processes data data to compute, surface moisture levels.
 - **Visualization**: Generates visual representations of wetness indices to facilitate analysis and interpretation.
 
 ---

@@ -37,7 +37,4 @@ A Python-based tool designed to calculate and visualize surface wetness.
    git clone https://github.com/Apfelirne5/wetness-mapper.git
    cd wetness-mapper
 
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
-
 Contributions are welcome! Please fork the repository and submit a pull request. For major changes, open an issue first to discuss your proposed modifications.

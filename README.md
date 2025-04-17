@@ -17,16 +17,16 @@ Utilizing satellite imagery and geospatial data, this tool aids in environmental
 ### Example 1 – Wetness Detection Process
 
 **Dry component**  
-![Test 1 Input](images/Test_1.png)
- <img src="images/Test_1.png" width="600"/>
+![Test 1 Input](images/Test_1.tiff)
+ <img src="images/Test_1.tiff" width="600"/>
 
 **Wet component**  
-![Test 1 Wetness](images/Test_1_wet.png)
- <img src="images/Test_1_wet.png" width="600"/>
+![Test 1 Wetness](images/Test_1_wet.tiff)
+ <img src="images/Test_1_wet.tiff" width="600"/>
 
 **Detected Wet Areas**  
-![Test 1 Wet Detected](images/Test_1_wet_detected.png)
- <img src="images/Test_1_wet_detected.png" width="600"/>
+![Test 1 Wet Detected](images/Test_1_wet_detected.tiff)
+ <img src="images/Test_1_wet_detected.tiff" width="600"/>
 
 ---
 

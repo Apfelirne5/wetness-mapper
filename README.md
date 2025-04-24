@@ -1,6 +1,6 @@
 # Wetness Mapper
 
-A Python-based tool designed to calculate and visualize surface wetness.
+First version of a Python-based tool designed to calculate and visualize surface wetness.
 
 ---
 

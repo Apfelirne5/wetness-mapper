@@ -1,1 +1,10 @@
+## Python Cache
+__pycache__/
+*.pyc
+
+## Virtual Environment
+venv/
+
+## macOS system files
 .DS_Store
+.AppleDouble
